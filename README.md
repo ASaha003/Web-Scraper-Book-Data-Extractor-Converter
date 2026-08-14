@@ -21,3 +21,19 @@ An automated Python web scraper that extracts product data from e-commerce websi
 ```bash
 git clone [https://github.com/ASaha003/book-data-scraper.git](https://github.com/ASaha003/book-data-scraper.git)
 cd book-data-scraper
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASaha003/Web-Scraper-Book-Data-Extractor-Converter/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASaha003/Web-Scraper-Book-Data-Extractor-Converter/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ASaha003/Web-Scraper-Book-Data-Extractor-Converter/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+<!---LeetCode Topics End-->
